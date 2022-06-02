@@ -41,4 +41,15 @@ a {
 }
 a:hover {
   color: ghostwhite;
+  transform: rotate(45deg);
+}
+.top:hover{
+  transform: rotate(45deg);
+ 
+}
+.middle:hover{
+  transform: opacity(100%);
+}
+.bottom:hover{
+  transform: rotate(45deg);
 }
